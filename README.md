@@ -2,3 +2,12 @@
 Utilized information from the ICC Men’s T20 World Cup 2022 to compile a list of the tournament’s top
 opening batsmen, considering their batting average, strike rate, innings played, and boundary percentage. Tools and libraries used: PowerBI, Pandas
 
+## Requirement Scoping
+
+|Parameter|Criteria|
+|---------|--------|
+|Batting average|>30|
+|Strike Rate|>140|
+|Innings Played|>3|
+|Boundary %|>50|
+|Batting Position|<4|
